@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Aguilar</h1>
-<h3 align="center">I am a skilled full-stack developer from El Salvador with a passion for web development, particularly utilizing Typescript. My expertise includes React for front-end development and Node.js for back-end implementation.</h3>
+<h4 align="center">I am a skilled full-stack developer from El Salvador with a passion for web development, particularly utilizing Typescript. My expertise includes React for front-end development and Node.js for back-end implementation.</h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julioaguilar2019&show_icons=true&locale=en" alt="julioaguilar2019" /></p>
 
