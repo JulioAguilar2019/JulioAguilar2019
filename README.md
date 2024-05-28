@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Aguilar</h1>
-<h4 align="center">I am a skilled full-stack developer from El Salvador with a passion for web development, particularly utilizing Typescript. My expertise includes React for front-end development and Java for back-end implementation.</h4>
+<h4 align="center">I am a skilled full-stack developer from El Salvador with a passion for web and mobile development, particularly utilizing Typescript. My expertise includes React for front-end development and Java for back-end implementation.</h4>
 
-- 🌱 I’m currently learning **Spring Framework and NextJS**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **dev.julioaguilar@gmail.com**
 
